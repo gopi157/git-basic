@@ -1,0 +1,8 @@
+this is just for testing and learning git .
+
+gitinit: adding your project to git or initializing your projectto git
+
+gitstatus: we can see number of commited files and untracked files, untracked files means the files which i didn't added to staging area.
+
+gitadd: adding your project to staging from current working directory to staging area
+
